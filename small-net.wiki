@@ -385,6 +385,9 @@ Here are some other things I have written related to **small-net**:
 §§§ A
 
 • [[active-users-protocol]]
+• [[atom-format]]
+• [[atom-publishing-protocol]] (**AtomPub**)
+• [[atom-syndication-format]]
 
 §§§ B
 
@@ -395,11 +398,16 @@ Here are some other things I have written related to **small-net**:
 
 • [[character-generator-protocol]] (**CHARGEN**)
 • [[content-addressing]]
+• [[content-distribution-network]] (**CDN**)
 
 §§§ D
 
 • [[daytime-protocol]]
+• [[data-replication]]
+• [[data-mirror]]
+• [[data-scraping]]
 • [[discard-protocol]]
+• [[distributed-hash-table]] (**DHT**)
 
 §§§ E
 
@@ -411,6 +419,7 @@ Here are some other things I have written related to **small-net**:
 
 §§§ G
 
+• [[garlic-routing]]
 • [[gemini-protocol]]
 • [[gnutella-protocol]]
 
@@ -426,6 +435,7 @@ Here are some other things I have written related to **small-net**:
 
 §§§ M
 
+• [[magnet-uri]]
 • [[mercury-protocol]]
 • [[misfin-protocol]]
 
@@ -436,6 +446,8 @@ Here are some other things I have written related to **small-net**:
 • [[node-to-node-copy-protocol]] (**NNCP**)
 
 §§§ O
+
+• [[onion-routing]]
 
 §§§ P
 
@@ -458,6 +470,7 @@ Here are some other things I have written related to **small-net**:
 
 • [[telnet-protocol]]
 • [[time-protocol]]
+• [[twtxt-format]]
 
 §§§ U
 
@@ -468,6 +481,8 @@ Here are some other things I have written related to **small-net**:
 §§§ W
 
 §§§ X
+
+• [[xor-metric]]
 
 §§§ Y
 

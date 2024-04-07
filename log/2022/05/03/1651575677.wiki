@@ -28,12 +28,12 @@ I.e.,
 
 ❦
 
-The ones that want the Web to become a (relatively “dump”) document platform seem to want something like the ‘Model’ from the Model-View-Control software development pattern.
+The ones that want the Web to become a (relatively “dump”) document platform seem to want something like the ‘Model’ from the **model-view-control** software development pattern.
 
-The ones that want the Web to become a (relatively “smart”) cross-platform application platform seem to want something like the ‘View’ from the Model-View-Control software development pattern.
+The ones that want the Web to become a (relatively “smart”) cross-platform application platform seem to want something like the ‘View’ from the **model-view-control** software development pattern.
 
 ❦
 
 I wonder if these two visions for the future of the Web have to be at-odds with each other ⁠—
 
-The popularity of the Model-View-Control software development pattern suggests that they could be complimentary.
+The popularity of the **model-view-control** software development pattern suggests that they could be complimentary.

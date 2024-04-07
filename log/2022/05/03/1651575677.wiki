@@ -1,0 +1,39 @@
+wiki/1
+
+§ The Two World Wide Webs
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2022-05-03T04:01:17-07:00
+
+I kind of get the feeling that people are trying to refactor the web, in a sense.
+
+And that there are at least 2 different visions for the future of the Web.
+
+Some seem to want the Web to go back to being about (relatively “dumb”) hypertext document format.
+
+Others seem to want the Web to be about a (relatively “smart”) cross-platform application platform.
+
+(There are other visions for the future of the Web, too.)
+
+❦
+
+This difference between these 2 visions for the future of the Web reminds me of the “M” (i.e., “Model“ ”) and “V” (i.e., “View”) respectively from the [[model-view-control]] (“MVC”) software development pattern.
+
+I.e.,
+
+“Model” ⊃ “(relatively dump) hypertext document format”
+
+“View” ⊃ “(relatively smart) cross-platform application platform”
+
+❦
+
+The ones that want the Web to become a (relatively “dump”) document platform seem to want something like the ‘Model’ from the Model-View-Control software development pattern.
+
+The ones that want the Web to become a (relatively “smart”) cross-platform application platform seem to want something like the ‘View’ from the Model-View-Control software development pattern.
+
+❦
+
+I wonder if these two visions for the future of the Web have to be at-odds with each other ⁠—
+
+The popularity of the Model-View-Control software development pattern suggests that they could be complimentary.

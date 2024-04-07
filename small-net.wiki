@@ -388,9 +388,13 @@ Here are some other things I have written related to **small-net**:
 
 §§§ B
 
+• [[bittorrent]]
+• [[block-exchange-protocol]] (**Syncthing**)
+
 §§§ C
 
 • [[character-generator-protocol]] (**CHARGEN**)
+• [[content-addressing]]
 
 §§§ D
 
@@ -408,6 +412,7 @@ Here are some other things I have written related to **small-net**:
 §§§ G
 
 • [[gemini-protocol]]
+• [[gnutella-protocol]]
 
 §§§ H
 
@@ -428,11 +433,13 @@ Here are some other things I have written related to **small-net**:
 
 • [[nex-protocol]]
 • [[network-news-transfer-protocol]] (**NNTP**)
+• [[node-to-node-copy-protocol]] (**NNCP**)
 
 §§§ O
 
 §§§ P
 
+• [[perkeep-protocol]]
 • [[post-office-protocol]] (**POP**)
 
 §§§ Q
@@ -443,6 +450,7 @@ Here are some other things I have written related to **small-net**:
 
 §§§ S
 
+• [[secure-scuttlebutt-protocol]] (**SSB**)
 • [[simple-mail-transfer-protocol]] (**SMTP**)
 • [[spartan-protocol]]
 

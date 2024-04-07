@@ -368,7 +368,9 @@ There are several debates within the **small-net** communities:
 • should a small-net protocol be at least minimally compatible with the Web — to make it so people have a "gentle" path to using any small-net?,
 • should a small-net HTML make use of Web-components?
 
-§ Logs
+§§ Logs
+
+Here are some other things I have written related to **small-net**:
 
 • [[log/2022/05/03/1651575677]]
 • [[log/2022/05/05/1651819654]]

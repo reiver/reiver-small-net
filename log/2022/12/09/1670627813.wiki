@@ -1,0 +1,112 @@
+wiki/1
+
+§ Finger-Protocol DNS SRV Record
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2022-12-09T15:16:53-08:00
+
+The [[finger-protocol]] could make use of DNS SRV records.
+
+You could use it to change the TCP-port connected to for a finger-request.
+
+You could use it to change the host connected to for a finger-request.
+
+This has a lot of potential!
+
+❦
+
+For example, if someone runs a command like:
+
+finger joeblow@example.com
+
+A (new) finger-protocol DNS SRV record — could be used to silently change the TCP-port the finger-request is made to.
+
+This, for example, could effectively make the previous command turn into something like:
+
+finger joeblow@example.com:1971
+
+(Or whatever other TCP-port is desired.)
+
+❦
+
+Also, for example, if someone runs a command like:
+
+finger joeblow@example.com
+
+A (new) finger-protocol DNS SRV record — could be used to change the host the finger-request is made to.
+
+This, for example, could effectively make the previous command turn into something like:
+
+finger joeblow@example.com@fingerhosting.dom
+
+(Where "fingerhosting.dom" is the new host.)
+
+(Or whatever other host is desired.)
+
+❦
+
+Also, for example, the previous two could be used in combination.
+
+Where a (new) finger-protocol DNS SRV record — could be used to change both the host and TCP-port the finger-request is made to.
+
+Also, for example, if someone runs a command like:
+
+finger joeblow@example.com
+
+This, for example, could effectively make the previous command turn into something like:
+
+finger joeblow@example.com@fingerhosting.dom:7979
+
+Where both the host & TCP-port were changed.
+
+❦
+
+Why would you want something like this‽ —
+
+Why would you want to use a finger-protocol DNS SRV record‽ —
+
+Well, lots of reasons.
+
+Here are some reasons —
+
+❦
+
+On many computers —
+
+The operating systems will prevent (regular) programs from using certain TCP-ports.
+
+On many computers — TCP-ports below 1024 cannot be used unless the program runs in ‘god mode’ — i.e., what some OSes call the ‘root’ user.
+
+The finger-protocol is suppose to use TCP-port 79 — which is one of those privileged ‘god mode’ TCP-ports.
+
+IT IS NOT A GOOD IDEA TO RUN A FINGER SERVER IN ‘GOD MODE’!
+
+So being able to switch the TCP-port to a non-privileged TCP-port is desirable!
+
+❦
+
+Being able to put finger servers, mail servers, web servers, gemini servers, gopher servers, etc etc etc — on different computers is desirable.
+
+For security reasons.
+For scalability reasons.
+For safety reasons.
+Etc.
+
+But the use of the same Internet domain —
+
+example.com
+
+Could suggest they are all on the same computer.
+
+Mail Servers actually have a convention for moving it to a separate computer — DNS MX records.
+
+A (new) finger DNS SRV record could bring this to finger, too.
+
+❦
+
+Shared hosting —
+
+A (new) DNS SRV record could make shared finger-hosting easier in a lot of different ways.
+
+A single server could serve finger for many Internet domains at the same time.

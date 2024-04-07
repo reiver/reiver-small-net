@@ -1,0 +1,44 @@
+wiki/1
+
+§ New Finger-Protocol Switches
+
+⸺ by Chalres Iliya Krempeaux
+
+⸺ published 2022-11-27T23:49:57-08:00
+
+One way the [[finger-protocol]] could be extended —
+
+Creating new finger ‘switches’ —
+
+I.e., creating new finger-protocol request ‘switches’, in addition to the “/W” (i.e., ‘whois’) switch —
+
+❦
+
+Two specifications were created for the finger-protocol:
+
+• IETF RFC-742 (published in 1977), and
+• IETF RFC-1288 (published in 1991).
+
+Neither of them were about creating the finger-protocol.
+
+The finger-protocol existed and was evolving for **AT LEAST 6 YEARS BEFORE** the IETF RFC-742 specification was written!
+
+❦
+
+RFC-742 & RFC-1288 were always about just documenting what existing software was already doing.
+
+I.e., the people who created the finger-protocol clients, servers, and other software (as well as the people who decided to use it) lead — and creating an updated specification comes later.
+
+❦
+
+I heavily used **finger** back in the 1990s.
+
+People are starting to use finger again!
+
+The new finger community should be open to creating new finger-protocol ‘switches’.
+
+For example “/PULL”, “/PUSH”, “/BANANA”, etc.
+
+You could even make ‘switches’ that look like file & directory paths — “/path/to/a/file.ext”.
+
+(Finger ‘switches’ are recognized by starting with a slash (“/”).)

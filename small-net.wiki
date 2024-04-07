@@ -106,15 +106,16 @@ Some //retro// protocols — that are attempts to "modernize" specific //vintage
 
 • the [[gemini-protocol]],
 • the [[mercury-protocol]],
+• the [[misfin-protocol]],
 • the [[nex-protocol]], and
 • the [[spartan-protocol]].
 
 With —
 
-• the **gemini** protocol being an attempt to "moderize" the **gopher** protocol, while not enabling the same mistakes of the Web,
-• the **mercury** protocol more or less being the **gemini** protocol without TLS encryption,
-• the **spartan** protocol being an alternative to the **gemini** protocol that does less "modernizations", and
-• the **nex** protocol being an attempt to be even simpler than and even fixing some aspects of the **gemini** protocol.
+• the [[gemini-protocol]] being an attempt to "moderize" the **gopher** protocol, while not enabling the same mistakes of the Web,
+• the [[mercury-protocol]] more or less being the **gemini** protocol without TLS encryption,
+• the [[nex-protocol]] being an attempt to be even simpler than and even fixing some aspects of the **gemini** protocol.
+• the [[spartan-protocol]] being an alternative to the **gemini** protocol that does less "modernizations", and
 
 §§ Retro Data Formats
 

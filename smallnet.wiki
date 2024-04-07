@@ -1,0 +1,367 @@
+§ Small-Net
+
+⸺ by Charles Iliya Krempeaux
+
+**Small-Net** is a social-movement born in the late 2010s and early 2020s focused on using &amp; creating technology that serve and to put the needs of individuals first, before everything else
+—
+and in particular:
+
+• the needs of the individual with respect to his or her active relationship with his or her friends and family, and
+• the needs of the individual with respect to joining and actively participating in one or more (usually //smaller//) communities.
+
+"**Small-Net**" is also sometimes written (without the hyphen) as "**smallnet**", and (with "small" written as "smol") as "**smolnet**".
+
+Related to **small-net** is "**small-web**", which is  also sometimes written (without the hyphen) as "**smallweb**", and (with "small" written as "smol") as "**smolweb**".
+"**Small-Web**", in some contexts, can be be considered a sub-set of **small-net**; and in other contexts can be considered more or less synonymous with **small-net**.
+
+§§ Motivation
+
+The **small-net** social-movement (as well as some other social-movements) was born out of a feeling that the modern (2010s and 2020s era) Internet, Web, and social-media are //broken//.
+
+Reasons for feeling that the modern (2010s and 2020s era) Internet, Web, and social-media is broken include the ubiquity of individuals:
+
+• getting spied on,
+• getting tracked,
+• having their privacy taken away from them,
+• getting turned into a product, and sold,
+• getting their online identity taken away from them,
+• getting censored,
+• getting manipulated,
+• getting their source of income taken from them because it suits someone else's interests, and
+• getting controlled.
+
+In addition to this, other reasons for feeling that the modern (2010s and 2020s era) Internet, Web, and social-media is broken include the ubiquity of and obtrusiveness of:
+
+• advertisements,
+• GDPR cookie consent pop-ups,
+• join-newsletter pop-ups, and
+• allow-notification pop-ups.
+
+**Small-Net** is partially an attempt to fix these things by using and even creating alternatives to the modern (2010s and 2020s era) Internet, Web, and social-media.
+
+§§ Vintage Protocols
+
+**Small-Net** enthusiasts are sometimes attracted to //vintage// computer networks protocols.
+The //vintage// computer network protocols that tend to get a lot of attention from **small-net** enthusiasts include:
+
+• the **finger** protocol,
+• the **gopher** protocol, and
+• the **telnet** protocol.
+
+With the **gopher** computer network protocol probably being the most popular of the three among **small-net** enthusiasts.
+
+Some other //vintage// computer network protocols that also sometimes get attention from **small-net** enthusiasts include:
+
+• the **active users protocol** (IETF RFC-866),
+• the **character generator protocol** (<abbr title="character generator">CHARGEN</abbr>) (IETF RFC-864),
+• the **daytime protocol** (IETF RFC-867),
+• the **discard protocol** (IETF RFC-863),
+• the **echo protocol** (IETF RFC-862),
+• the **network news transfer protocol** (<abbr title="network news transfer protocol">NNTP</abbr>) (IETF RFC-977, RFC-1036, RFC-2980, RFC-3977, RFC-4642),
+• the **post office protocol** (<abbr title="post office protocol">POP</abbr>),
+• the **quote of the day protocol** (IETF RFC-865),
+• the **simple mail transfer protocol** (<abbr title="simple mail transfer protocol">SMTP</abbr>),
+• the **time protocol** (IETF RFC-868), and
+• the **UUCP** protocol.
+
+§§ Vintage Data Formats
+
+Some //vintage// file data formats have also attracted the attention of **small-net** enthusiasts; namely:
+
+• the **ANSI** text format,
+• the **ASCII** text format,
+• the **Code Page 437** (<abbr title="code page 437">CP437</abbr>) text format,
+• the **Mattel Aquarius** text format,
+• the **PETSCII** text format,
+• the **Teletext** text format,
+• the **TRS-80** text format,
+• the **Videotex** text format,
+• the **XSL** style format,
+• the **XSLT** style format,
+• the **XHTML** document format,
+• the **XML** data format,
+• the **ZX80** text format, and
+• the **ZX81** text format.
+
+§§ "Modernization"
+
+Although many **small-net** enthusiasts are attracted to //vintage// protocols, some have found those //vintage// protocols difficult to work with and lacking features they feel as important.
+
+A reaction to this is that there have been attempts to create "modernized" versions of these //vintage// protocols, while trying to avoid the mistakes of the modern (2010s and 2020s era) Internet, Web, and social-media.
+
+"Modernization" can include:
+
+• including support for Unicode <abbr title="Unicode Transformation Format — 8-bit">UTF-8</abbr>,
+• including support for <abbr title="Uniform Resource Locator">URL</abbr>s and <abbr title="Uniform Resource Identifier">URI</abbr>s,
+• including support for hypertext,
+• including support for rich-text, and
+• including support for media.
+
+§§ Retro Protocols
+
+Some //retro// protocols — that are attempts to "modernize" specific //vintage// protocols — that have come out of the **small-net** communities include:
+
+• the **gemini** protocol,
+• the **mercury** protocol,
+• the **nex** protocol, and
+• the **spartan** protocol.
+
+With —
+
+• the **gemini** protocol being an attempt to "moderize" the **gopher** protocol, while not enabling the same mistakes of the Web,
+• the **mercury** protocol more or less being the **gemini** protocol without TLS encryption,
+• the **spartan** protocol being an alternative to the **gemini** protocol that does less "modernizations", and
+• the **nex** protocol being an attempt to be even simpler than and even fixing some aspects of the **gemini** protocol.
+
+§§ Retro Data Formats
+
+Some other //retro// file data formats  — that are attempts to "modernize" specific //vintage// file data formats — that either have come out of the **small-net** communities or have drawn the attention of people in the **small-net** communities include:
+
+• the **gemtext** format,
+• the **json feed** format,
+• the **markdown** format,
+• the **nex directory** format, and
+• the **twtxt** format.
+
+§§ Other Protocols and Formats
+
+Although //not// generally considered part of **small-net**, these protocols and file data formats are also often of interest to **small-net** enthusiasts:
+
+• acct-URI,
+• hash-URI,
+• magnet-URI,
+• the **ActivityPub** protocol,
+• the **ActivityStream** protocol,
+• the **at-protocol**,
+• the **BitTorrent** protocol,
+• the **kademlia** protocol,
+• the **gnutella** protocol,
+• the **node to node copy** protocol (NNCP),
+• the **nostr** protocol,
+• the **secure scuttlebutt** protocol, and
+• the **WebFinger** protocol.
+
+§§ Small-Net Goals
+
+There are a loose collection of //goals// that seem to be commonly desired by **small-net** enthusiasts.
+These goals in part explain why certain protocols and file data formats are of interest.
+
+Not all **small-net** enthusiasts desire all of these //goals//.
+And some of these //goals// are even in conflict with each other.
+
+But one does not have to satisfy all of these //goals// in the same protocol.
+
+And also, noting all these different //goals// is important to understanding the **small-net** social-movement, even if some are in conflict.
+
+These //goals// seem to be (in alphabetical order based on category, and //not// in order of popularity):
+
+§§§ Alternative
+
+• be an alterative platform for cross-platform application development,
+• be an alterative platform for static files (rather than applications),
+• be an alterative to BBS,
+• be an alterative to the e-mail protocols,
+• be an alterative to the finger protocol,
+• be an alterative to the gopher protocol,
+• be an alterative to big social-media,
+• be an alterative to the telnet protocol,
+• be an alterative to the modern Web,
+
+§§§ Archivism
+
+• be accommodating to servers with intermittent up-time,
+• (also) be available via non-Internet means in a seamless way,
+• be aware of archives,
+• be aware of mirrors,
+• be easy to archive,
+• be easy to mirror,
+• be off-line first,
+• be resistant to censorship,
+• be resistant to Internet domain-name expiration,
+• be resistant to Internet domain-name seizure,
+• be resistant to link-rot,
+• be resistant to server seizure,
+• be resistant to server termination,
+• be resistant to software-rot,
+• be servable from the most common computers — mobile phones, tablets, and laptops,
+• encourage archiving,
+• encourage mirroring,
+• include support for a single complete download of "everything",
+• include support for downloading just the "latest" updates,
+• make archiving automatic,
+• make mirroring automatic,
+• make it so a 'response' can be a full resource for a single request (ex: don't have to go download extra images, pages, CSS, JS, etc),
+• support a single download of many files,
+• support a an archival download of many files,
+
+§§§ Better
+
+• be faster,
+• be more private,
+• be more secure,
+• support 'directories' (of files),
+• support machine-legible semantics,
+• support 'partials',
+• support parameterized 'partials',
+• support 'slots',
+• support the separation of content from navigation/UI,
+
+§§§ Fix
+
+• be a "fixed" version of the e-mail protocols,
+• be a "fixed" version of the gopher protocol,
+• be a "fixed" version of the gemini protocol,
+• fix identity,
+• be a "fixed" version of the NNTP protocol,
+• fix payments,
+• fix the Internet,
+• be a "fixed" version of social-media,
+• be a "fixed" version of the Web,
+• be a "fixed" version of Usenet,
+
+§§§ Legibility
+
+• the protocol should be programmer-legible,
+• the protocol should be simple enough for a competent software developer of 3 to 10 years of experience to be able to create a (simple) working //client// as a weekend project,
+• the protocol should be simple enough for a competent software developer of 3 to 10 years of experience to be able to create a (simple) working //server// as a weekend project,
+• the protocol should be simple enough for a competent software developer of 3 to 10 years of experience to successively add advanced features to their //client// as a series a weekend projects,
+• the protocol should be simple enough for a competent software developer of 3 to 10 years of experience to successively add advanced features to their //server// as a series a weekend projects,
+• the default file data format to be easy enough to parse for a software developer of 3 to 10 years of experience,
+• the default file data format should be human-legible — i.e., legible by humans who aren't programmers,
+• the default file data format to be writable by the average computer-literate (non-programmer) person using just a text-editor (for some definition of "text),
+
+§§§ Lifeboat
+
+• be a viable lifeboat for evacuees from big social-media,
+• be a viable lifeboat for evacuees from the Web,
+• be a viable lifeboat for micro-blogging,
+
+§§§ Modernizations
+
+• be a "modernized" version of BBS protocol (for some definition of "modernized"),
+• be a "modernized" version of the finger protocol (for some definition of "modernized"),
+• be a "modernized" version of the gopher protocol (for some definition of "modernized"),
+• be a "modernized" version of the telnet protocol (for some definition of "modernized"),
+• include support for content-addressing,
+• include support for hypertext,
+• include support for media (audio, images, video, etc),
+• include support for rich-text,
+• include support for Unicode <abbr title="Unicode Transformation Format — 8-bit">UTF-8</abbr>,
+• include support for <abbr title="Uniform Resource Locator">URL</abbr>s and <abbr title="Uniform Resource Identifier">URI</abbr>s,
+
+§§§ Nostalgia
+
+• be nostalgic to those who were on-line (on the Internet, BBS, or elsewhere) in the 2000s
+• be nostalgic to those who were on-line (on the Internet, BBS, or elsewhere) in the 1990s
+• be nostalgic to those who were on-line (on the Internet, BBS, or elsewhere) in the 1980s
+• be nostalgic to those who were on-line (on the Internet, BBS, or elsewhere) in the 1970s
+
+§§§ Revive
+
+• revive ASCII-art,
+• revive ANSI-art,
+• revive blogging,
+• revive the blogosphere,
+• revive blogrolls,
+• revive link directories,
+• revive long-form writing,
+• revive personal home-pages,
+• revive personal wikis,
+• revive self-contained sites,
+• revive something like the (pre-JavaScript pre-CSS) Web of the 1990s,
+• revive 'surfing' — going from page to page or site to site via one page or site linking to another page or site,
+• revive vlogging,
+• revive web-rings,
+
+§§§ Perma-Computing
+
+• be resistant to software-rot,
+• support programming,
+• support setting pixels,
+• support Unix/Linux style piping,
+
+§§§ Privacy
+
+• support anonymous usage,
+• support pseudononymous usage,
+• make spying (that feels ubiquitous on the Web) difficult if not impossible,
+• make tracking (that feels ubiquitous on the Web) difficult if not impossible,
+• prevent spying on what 'pages' you view or read,
+• prevent spying on what 'sites' you access content from (ex: being able to tell what Internet domain-names you resolve),
+• prevent web-bugs,
+
+§§§ Take-Over Resistance
+
+• be decentralized,
+• be difficult to embrace-extend-extinguish (<abbr title="embrace-extend-extinguish">EEE</abbr>),
+• be distributed,
+• don't make Internet domain-names mandatory,
+• encourage multiple client software implementations,
+• encourage multiple server software implementations,
+• encourage a large number of client software implementations,
+• encourage a large number of server software implementations,
+• make creating //client// software a good learning exercise for students,
+• make creating //server// software a good learning exercise for students,
+• make creating your own //client// software easy to do for a a competent software developer of 3 to 10 years of experience,
+• make creating your own //server// software easy to do for a a competent software developer of 3 to 10 years of experience,
+• try to make it so multiple client software exists and new client software keeps on getting created, so that a malicious party doesn't have a single point of attack (i.e., a single client) that if they compromise to compromise users' privacy,
+
+§§§ Trust
+
+• avoid certificate authorities,
+• prevent or make 3rd-party content-modification detectable if not very difficult,
+• prevent or make man-in-the-middle (<abbr title="man-in-the-middle">MITM</abbr>) attacks very difficult,
+• prevent someone else from adding to your trusted keys,
+• prevent someone else deciding what your trusted keys are,
+• prevent someone else from replacing one or more of your trusted keys,
+
+§§§ Unobtrusiveness
+
+• prevent or make unwelcomed advertisements very difficult,
+• prevent pop-ups,
+
+§§§ User-Experience
+
+• get rid of the need for passwords,
+• be able to (also) be viewed from a computer-terminal-emulator,
+• be able to (also) be viewed and used without (necessarily) needing a mouse,
+• have the default file data format be easy enough that an average person could learn to write it using just a text-editor (for some definition of “text”).
+
+§§ Debates
+
+There are several debates within the **small-net** communities:
+
+§§§ Encryption
+
+• should encryption of communications be mandatory?,
+• should encryption of communications be optional?,
+• should encryption of communications be prohibited?,
+
+§§§ Media
+
+• should it be text only (for some definition of "text")?,
+• should audio be supported?,
+• should embedded audio be supported?,
+• should images be supported?,
+• should embedded images be supported?,
+• should video be supported?,
+• should embedded videos be supported?,
+
+§§§ Old Computers
+
+• should the default "text" format of a small-net protocol only support the features that the vintage VT05 computer-terminal had — i.e., no blinking, no bolding, no underlining, no reverse text, but also **no lower-case letters**?,
+• should the default "text" format of a small-net protocol only support the features of the ASCII data format?,
+• should the default "text" format of a small-net protocol only support the features that are renderable on most of the popular modern computer-terminal-emulators?,
+• should we embrace the "best" of old computers without being restricted by (all) their limitations?,
+
+§§§ Rich Formatting
+
+• is 'bolding' a type of punctuation or styling?,
+• is 'italicizing' a type of punctuation or styling?,
+• is 'underlining' a type of punctuation or styling?,
+
+§§§ The Web
+
+• should a small-net protocol be intentionally incompatible with the Web — except maybe over bridge-proxies?,
+• should a small-net protocol be at least minimally compatible with the Web — to make it so people have a "gentle" path to using any small-net?,
+• should a small-net HTML make use of Web-components?

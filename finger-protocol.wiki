@@ -1,0 +1,67 @@
+wiki/1
+
+§ Finger Protocol
+
+The **finger-protocol** is an early Internet-based **social-network**,  with its origins in the early 1970s.
+Like with a lot of things from the early Internet — the **finger-protocol** is decentralized.
+
+**finger**'ing someone could return:
+
+• personal information,
+• contact information,
+• references to that person's presence on other parts of the Internet,
+• a short biography,
+• a journal,
+• articles,
+• jokes,
+• (so called) ASCII art (which could contain non-ASCII characters),
+• animations,
+• //and more//.
+
+Historically people and even machines were identified by user names at a host name. For example:
+
+``cikrempeaux@reiver.link``
+
+Someone could request information //from// or //about// a **user** at a **host** using one of the historic ``finger`` terminal applications.
+On the command-line, a simple finger request could be performed with something like the following:
+
+``finger cikrempeaux@reiver.link``
+
+A finger-protocol server could return anything it wanted.
+But the spirit of the finger-protocol is that the output should be **human-legible** first, given what technologies are available at the time (and //programmer-legible// & //machine-legible// second if at all).
+
+Also, being a simple protocol, made creating a simple client often trivial for many.
+For example:
+
+``echo '/W cikrempeaux' | nc reiver.link 79``
+
+§§ Samples
+
+Here is a sample of finger response in the style of a classical finger response:
+
+.
+Login: reiver                           Name: 
+Directory: /home/reiver                Shell: /usr/bin/bash
+Last login Thu Dec 01 02:05:59 2022 UTC
+No Mail.
+Plan:
+ 
+ 
+          _
+         ( )
+          H
+          H
+         _H_ 
+      .-'-.-'-.
+     /         \
+    |           |
+    |   .-------'._
+    |  / /  '.' '. \
+    |  \ \ @   @ / / 
+    |   '---------'        
+    |    _______|  
+    |  .'-+-+-+|  
+    |  '.-+-+-+|         Hello world!
+    |    """""" |
+    '-.__   __.-'
+         """

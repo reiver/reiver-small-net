@@ -1,6 +1,6 @@
 wiki/1
 
-§ Finger-Protocol DNS SRV Record
+§ Finger-Protocol DNS SRV Records
 
 ⸺ by Charles Iliya Krempeaux
 

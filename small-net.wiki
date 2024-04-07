@@ -380,6 +380,7 @@ Here are some other things I have written related to **small-net**:
 • [[log/2022/05/05/1651819654]] Copy‐And‐Share Mirrors
 • [[log/2022/11/04/1667585025]] Broken
 • [[log/2024/01/20/1705764557]] The Default Style Of Web-Browsers Versus E-Book Readers
+• [[log/2023/10/04/1696475480]] Is Gemini+Gemtext Close Enough?
 
 §§ Topics
 

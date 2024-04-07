@@ -1,0 +1,17 @@
+wiki/1
+
+§ Is Gemini+Gemtext Close Enough?
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2023-10-04T20:11:20-07:00
+
+There is a type of person who is attracted to the [[gemini-protocol]] and the [[gemtext-format]] because they wanted a Web that was based on the [[markdown-format]] instead of HTML.
+
+And the **gemini-protocol** + **gemtext** seemed close to that.
+
+❦
+
+Not everyone who is attracted to the gemini-protocol or gemtext-format is this type of person.
+
+But I've talked to enough of these types of people that I know they are definitely out there.

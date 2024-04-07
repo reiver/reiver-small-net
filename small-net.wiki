@@ -55,14 +55,14 @@ With the **gopher** computer network protocol probably being the most popular of
 Some other //vintage// computer network protocols that also sometimes get attention from **small-net** enthusiasts include:
 
 • the **active users protocol** (IETF RFC-866),
-• the **character generator protocol** (<abbr title="character generator">CHARGEN</abbr>) (IETF RFC-864),
+• the **character generator protocol** (**CHARGEN**) (IETF RFC-864),
 • the **daytime protocol** (IETF RFC-867),
 • the **discard protocol** (IETF RFC-863),
 • the **echo protocol** (IETF RFC-862),
-• the **network news transfer protocol** (<abbr title="network news transfer protocol">NNTP</abbr>) (IETF RFC-977, RFC-1036, RFC-2980, RFC-3977, RFC-4642),
-• the **post office protocol** (<abbr title="post office protocol">POP</abbr>),
+• the **network news transfer protocol** (**NNTP**) (IETF RFC-977, RFC-1036, RFC-2980, RFC-3977, RFC-4642),
+• the **post office protocol** (**POP**),
 • the **quote of the day protocol** (IETF RFC-865),
-• the **simple mail transfer protocol** (<abbr title="simple mail transfer protocol">SMTP</abbr>),
+• the **simple mail transfer protocol** (**SMTP**),
 • the **time protocol** (IETF RFC-868), and
 • the **UUCP** protocol.
 
@@ -72,7 +72,7 @@ Some //vintage// file data formats have also attracted the attention of **small-
 
 • the **ANSI** text format,
 • the **ASCII** text format,
-• the **Code Page 437** (<abbr title="code page 437">CP437</abbr>) text format,
+• the **Code Page 437** (**CP437**) text format,
 • the **Mattel Aquarius** text format,
 • the **PETSCII** text format,
 • the **Teletext** text format,
@@ -93,11 +93,12 @@ A reaction to this is that there have been attempts to create "modernized" versi
 
 "Modernization" can include:
 
-• including support for Unicode <abbr title="Unicode Transformation Format — 8-bit">UTF-8</abbr>,
-• including support for <abbr title="Uniform Resource Locator">URL</abbr>s and <abbr title="Uniform Resource Identifier">URI</abbr>s,
-• including support for hypertext,
-• including support for rich-text, and
-• including support for media.
+• including support for Unicode **UTF-8** (i.e, **Unicode Transformation Format — 8-bit**),
+• including support for **URL**s (**uniform resource locator**s),
+• including support for **URI**s (**uniform resource identifier**s),
+• including support for **hypertext**,
+• including support for **rich-text**, and
+• including support for **media**.
 
 §§ Retro Protocols
 
@@ -244,19 +245,20 @@ These //goals// seem to be (in alphabetical order based on category, and //not//
 • be a "modernized" version of the [[finger-protocol]] (for some definition of "modernized"),
 • be a "modernized" version of the [[gopher-protocol]] (for some definition of "modernized"),
 • be a "modernized" version of the [[telnet-protocol]] (for some definition of "modernized"),
-• include support for content-addressing,
-• include support for hypertext,
-• include support for media (audio, images, video, etc),
-• include support for rich-text,
-• include support for Unicode <abbr title="Unicode Transformation Format — 8-bit">UTF-8</abbr>,
-• include support for <abbr title="Uniform Resource Locator">URL</abbr>s and <abbr title="Uniform Resource Identifier">URI</abbr>s,
+• include support for **content-addressing**,
+• include support for **hypertext**,
+• include support for **media** (audio, images, video, etc),
+• include support for **rich-text**,
+• include support for Unicode **UTF-8** (i.e., **Unicode Transformation Format — 8-bit**),
+• include support for **URL**s (**uniform resource locator**s),
+• include support for **URI**s (**uniform resource identifier**s),
 
 §§§ Nostalgia
 
-• be nostalgic to those who were on-line (on the Internet, BBS, or elsewhere) in the 2000s
-• be nostalgic to those who were on-line (on the Internet, BBS, or elsewhere) in the 1990s
-• be nostalgic to those who were on-line (on the Internet, BBS, or elsewhere) in the 1980s
-• be nostalgic to those who were on-line (on the Internet, BBS, or elsewhere) in the 1970s
+• be nostalgic to those who were on-line (on the Internet, BBS, or elsewhere) in the 2000s,
+• be nostalgic to those who were on-line (on the Internet, BBS, or elsewhere) in the 1990s,
+• be nostalgic to those who were on-line (on the Internet, BBS, or elsewhere) in the 1980s,
+• be nostalgic to those who were on-line (on the Internet, BBS, or elsewhere) in the 1970s,
 
 §§§ Revive
 
@@ -295,7 +297,7 @@ These //goals// seem to be (in alphabetical order based on category, and //not//
 §§§ Take-Over Resistance
 
 • be decentralized,
-• be difficult to embrace-extend-extinguish (<abbr title="embrace-extend-extinguish">EEE</abbr>),
+• be difficult to embrace-extend-extinguish (**EEE**),
 • be distributed,
 • don't make Internet domain-names mandatory,
 • encourage multiple client software implementations,
@@ -312,7 +314,7 @@ These //goals// seem to be (in alphabetical order based on category, and //not//
 
 • avoid certificate authorities,
 • prevent or make 3rd-party content-modification detectable if not very difficult,
-• prevent or make man-in-the-middle (<abbr title="man-in-the-middle">MITM</abbr>) attacks very difficult,
+• prevent or make man-in-the-middle (**MITM**) attacks very difficult,
 • prevent someone else from adding to your trusted keys,
 • prevent someone else deciding what your trusted keys are,
 • prevent someone else from replacing one or more of your trusted keys,

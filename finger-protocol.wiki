@@ -36,9 +36,3 @@ Also, being a simple protocol, made creating a simple client often trivial for m
 For example:
 
 ``echo '/W cikrempeaux' | nc reiver.link 79``
-
-§§ Samples
-
-Here is a sample of finger response in the style of a classical finger response:
-
-``Login: reiver                           Name:  Directory: /home/reiver                Shell: /usr/bin/bash Last login Thu Dec 01 02:05:59 2022 UTC No Mail. Plan:               _          ( )           H           H          _H_        .-'-.-'-.      /         \     |           |     |   .-------'._     |  / /  '.' '. \     |  \ \ @   @ / /     |   '---------'     |    _((_))_((_))_((_))_|     |  .'-+-+-+|     |  '.-+-+-+|         Hello world!     |    """""" |     '-._((_))   _((_)).-'          """``

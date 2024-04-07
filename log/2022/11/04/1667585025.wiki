@@ -1,0 +1,41 @@
+wiki/1
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2022-11-04T11:03:45-07:00
+
+The Internet is broken.
+The Web is broken.
+Social Media is broken.
+
+Many people feel this.
+
+❦
+
+You get spied on.
+You get tracked.
+You get your privacy taken away from you.
+You get turned into a product, and sold.
+You get your online identity taken from you.
+You get censored.
+You get manipulated.
+You get your source of income taken from you, because it suits someone else's interests.
+You get controlled.
+You get everything taken away from you.
+
+Did you tap to accept cookies?
+Did you tap to join the newsletter?
+Did you tap to allow notifications?
+
+It doesn't have to be this way.
+
+❦
+
+The way to fix a lot of this — probably most of this — is straightforward.
+
+Someone just has to decide to do something about it.
+
+Someone has to go ahead and do the actual work to make it happen.
+
+And — someone has to donate their work to the world (and not turn it into a corporation).
+Just like the core technologies behind the Internet (TCP, UDP, HTTP(S), etc) were donated to the world.

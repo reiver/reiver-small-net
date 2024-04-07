@@ -367,3 +367,7 @@ There are several debates within the **small-net** communities:
 • should a small-net protocol be intentionally incompatible with the Web — except maybe over bridge-proxies?,
 • should a small-net protocol be at least minimally compatible with the Web — to make it so people have a "gentle" path to using any small-net?,
 • should a small-net HTML make use of Web-components?
+
+§ Logs
+
+• [[log/2022/11/04/1667585025]]

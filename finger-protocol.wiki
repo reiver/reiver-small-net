@@ -1,6 +1,6 @@
 wiki/1
 
-§ Finger Protocol
+§ Finger-Protocol
 
 ⸺ by Charles Iliya Krempeaux
 
@@ -36,3 +36,7 @@ Also, being a simple protocol, made creating a simple client often trivial for m
 For example:
 
 ``echo '/W cikrempeaux' | nc reiver.link 79``
+
+§§ Small-Net
+
+Nowadays (as the year 2022), the **finger-protocol** is considered a [[small-net]] protocol.

@@ -44,9 +44,9 @@ In addition to this, other reasons for feeling that the modern (2010s and 2020s 
 **Small-Net** enthusiasts are sometimes attracted to //vintage// computer networks protocols.
 The //vintage// computer network protocols that tend to get a lot of attention from **small-net** enthusiasts include:
 
-• the **finger** protocol,
-• the **gopher** protocol, and
-• the **telnet** protocol.
+• the [[finger-protocol]],
+• the [[gopher-protocol]], and
+• the [[telnet-protocol]].
 
 With the **gopher** computer network protocol probably being the most popular of the three among **small-net** enthusiasts.
 
@@ -101,10 +101,10 @@ A reaction to this is that there have been attempts to create "modernized" versi
 
 Some //retro// protocols — that are attempts to "modernize" specific //vintage// protocols — that have come out of the **small-net** communities include:
 
-• the **gemini** protocol,
-• the **mercury** protocol,
-• the **nex** protocol, and
-• the **spartan** protocol.
+• the [[gemini-protocol]],
+• the [[mercury-protocol]],
+• the [[nex-protocol]], and
+• the [[spartan-protocol]].
 
 With —
 
@@ -161,10 +161,10 @@ These //goals// seem to be (in alphabetical order based on category, and //not//
 • be an alterative platform for static files (rather than applications),
 • be an alterative to BBS,
 • be an alterative to the e-mail protocols,
-• be an alterative to the finger protocol,
-• be an alterative to the gopher protocol,
+• be an alterative to the [[finger-protocol]],
+• be an alterative to the [[gopher-protocol]],
 • be an alterative to big social-media,
-• be an alterative to the telnet protocol,
+• be an alterative to the [[telnet-protocol]],
 • be an alterative to the modern Web,
 
 §§§ Archivism
@@ -239,9 +239,9 @@ These //goals// seem to be (in alphabetical order based on category, and //not//
 §§§ Modernizations
 
 • be a "modernized" version of BBS protocol (for some definition of "modernized"),
-• be a "modernized" version of the finger protocol (for some definition of "modernized"),
-• be a "modernized" version of the gopher protocol (for some definition of "modernized"),
-• be a "modernized" version of the telnet protocol (for some definition of "modernized"),
+• be a "modernized" version of the [[finger-protocol]] (for some definition of "modernized"),
+• be a "modernized" version of the [[gopher-protocol]] (for some definition of "modernized"),
+• be a "modernized" version of the [[telnet-protocol]] (for some definition of "modernized"),
 • include support for content-addressing,
 • include support for hypertext,
 • include support for media (audio, images, video, etc),

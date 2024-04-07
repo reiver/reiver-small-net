@@ -1,0 +1,46 @@
+wiki/1
+
+§ Copy‐And‐Share Mirrors
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2022-05-05T23:47:34-07:00
+
+It used to be common for people to copy one, or more, or even all the files from another (FTP, HTTP, or whatever) site, and share it with others.
+
+The original site even considered this helpful!
+
+These copy-and-share sites were called — **mirrors**.
+
+❦
+
+Back then, when people wanted to download a giant file, many people would find the **mirror** that was fastest for them to download from.
+
+(Back then, this often meant picking a **mirror** that was geographically close to you.)
+
+❦
+
+Mirrors were solutions to a number of problems.
+
+But — a couple of the problems **mirrors** solved was —
+
+№1: finding somewhere, anywhere!, you could download the file you want from, and
+
+№2: (of the places you could download it from) picking a “best” place for you to download it from.
+
+❦
+
+Nowadays, I think content-distribution-networks (CDN), and BitTorrent also address some of the issues that these Mirrors addressed.
+
+Although one can think of CDNs and BitTorrent as types of **mirroring**.
+
+(You can also probably throw Gnutella in there too. It can also be thought of as a **mirroring** technology.
+Gnutella was very very popular at one time — but it came and went.)
+
+❦
+
+I think if you want a “good” decentralized Internet, federated Internet, distributed Internet, P2P Internet, or whatever you want to call it — 
+
+You need **mmirrors**, and you need **mirroring**.
+
+Also, **mirroring** is easier & even “better” in many ways if you utilize content-addressing.

@@ -41,6 +41,6 @@ Gnutella was very very popular at one time — but it came and went.)
 
 I think if you want a “good” decentralized Internet, federated Internet, distributed Internet, P2P Internet, or whatever you want to call it — 
 
-You need **mmirrors**, and you need **mirroring**.
+You need **mirrors**, and you need **mirroring**.
 
 Also, **mirroring** is easier & even “better” in many ways if you utilize content-addressing.

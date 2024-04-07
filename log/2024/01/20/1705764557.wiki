@@ -1,0 +1,19 @@
+wiki/1
+
+§ The Default Style Of Web-Browsers Versus E-Book Readers
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2024-01-20T07:29:17-08:00
+
+If you look at an HTML document that has absolutely no styling in a web-browser (such as Chrome or Firefox) it does not look good for many HTML tags.
+
+If you look at an HTML document that has absolutely no styling in many e-book readers (that support EPUB) they look decent.
+
+It would probably be better for a small-net web-browser to be more like an e-book reader than the major modern web-browsers.
+
+❦
+
+I think most major modern web-browsers are more geared towards using web technologies as a (relatively “smart”) cross-platform application platform.
+
+Where e-book readers (that support EPUB) are more geared towards using web technologies  as a (relatively “dumb”) hypertext document format.

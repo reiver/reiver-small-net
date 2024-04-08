@@ -1,0 +1,21 @@
+wiki/1
+
+§ The Finger-Protocol As A Mirror And CDN Protocol
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2022-11-28T19:52:17-08:00
+
+You could use **finger** as a mirror & a CDN —
+
+The type of [[finger-protocol]] request many are used to —
+
+finger joeblow@example.com 
+
+I.e., ask "example.com" for joeblow's content.
+
+But you could request someone else's from a different server with:
+
+finger joeblow@example.com@reiver.link
+
+I.e., ask "reiver.link" for the content for "joeblow" from "example.com".

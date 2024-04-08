@@ -382,6 +382,7 @@ Here are some other things I have written related to **small-net**:
 • [[log/2022/11/04/1667585025]] Broken
 • [[log/2022/11/27/1669621797]] New Finger-Protocol Switches
 • [[log/2022/11/28/1669693937]] The Finger-Protocol As A Mirror And CDN Protocol
+• [[log/2022/11/29/1669713212]] Move Away From Internet Domain Names
 • [[log/2022/12/09/1670627813]] Finger-Protocol DNS SRV Records
 • [[log/2024/01/20/1705764557]] The Default Style Of Web-Browsers Versus E-Book Readers
 • [[log/2023/10/04/1696475480]] Is Gemini+Gemtext Close Enough?

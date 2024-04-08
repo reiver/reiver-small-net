@@ -1,0 +1,21 @@
+wiki/1
+
+§ Move Away From Internet Domain Names
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2022-11-29T01:13:32-08:00
+
+The **small-net** community should move away from Internet domain names.
+
+At least as the primary way of addressing content.
+
+Internet domain names —
+
+• can expire,
+• can be taken away from you,
+• cost you money each year.
+
+This results in URLs breaking — which contributes to one of the scourges of the Internet — **link-rot** 🔗
+
+We are loosing large parts of human culture, human knowledge, and human history as a result of this!

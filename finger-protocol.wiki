@@ -40,3 +40,27 @@ For example:
 §§ Small-Net
 
 Nowadays (as the year 2022), the **finger-protocol** is considered a [[small-net]] protocol.
+
+§§ Finger-Protocol Advantages
+
+The **finger-protocol** has a number of advantages:
+
+• the **finger-protocol** is a [[human-legible]] protocol (rather than just a programmer-legible or machine-legible protocol),
+• the **finger-protocol** is **simple enough** for even a more //junior// software developer to be able to understand it,
+• the **finger-protocol** and its //default// data-format are simple enough for a competent software developer to be able to create a (simple) working client as a weekend project,
+• the **finger-protocol** is simple enough for a competent software developer to be able to create a (simple) working server as a weekend project,
+• all of a (single) user's content is provided as a **single download**,
+• a client could make a request from a server for a user who is //not// (necessarily) local to that server,
+• key-value pairs are in a format that is **human-legible**, **programmer-legible**, and **machine-legible**.
+
+§§ Finger-Protocol Disadvantges
+
+The **finger-protocol** also has a number of disadvantages:
+
+• when a client receives a response from a server, it does not know whether it received all the data or not, as, for example, the network connection could have been disconnected prematurely, but there is no way to detect this,
+• there is no //tamper detection//,
+• there is no way to determine whether the finger (``.plan`) file was actually from the user whose content was requested,
+• there is no way to choose privacy,
+• the entire finger (``.plan``) file must be download each time, even if the exact same finger (``.plan``) file was previously downloaded,
+• identity is strictly tied to an Internet domain,
+• there is no official way of segmenting the download (into sub-pages).

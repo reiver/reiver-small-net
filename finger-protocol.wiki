@@ -4,7 +4,7 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
-The **finger-protocol** is an early Internet-based **social-network**,  with its origins in the early 1970s.
+The **finger-protocol** is an early Internet-based **social-network**, with its origins in the early 1970s.
 Like with a lot of things from the early Internet — the **finger-protocol** is decentralized.
 
 **finger**'ing someone could return:

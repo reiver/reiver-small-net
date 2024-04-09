@@ -114,8 +114,8 @@ With —
 
 • the [[gemini-protocol]] being an attempt to "moderize" the **gopher** protocol, while not enabling the same mistakes of the Web,
 • the [[mercury-protocol]] more or less being the **gemini** protocol without TLS encryption,
-• the [[nex-protocol]] being an attempt to be even simpler than and even fixing some aspects of the **gemini** protocol.
-• the [[spartan-protocol]] being an alternative to the **gemini** protocol that does less "modernizations", and
+• the [[nex-protocol]] being an attempt to be even simpler than and even fixing some aspects of the **gemini** protocol, and
+• the [[spartan-protocol]] being an alternative to the **gemini** protocol that does less "//modernizations//".
 
 §§ Retro Data Formats
 

@@ -139,9 +139,9 @@ Although //not// generally considered part of **small-net**, these protocols and
 • the **at-protocol**,
 • the **BitTorrent** protocol,
 • the **kademlia** protocol,
-• the **gnutella** protocol,
+• the [[gnutella-protocol]],
 • the **node to node copy** protocol (NNCP),
-• the **nostr** protocol,
+• the [[nostr-protocol]],
 • the **secure scuttlebutt** protocol, and
 • the **WebFinger** protocol.
 

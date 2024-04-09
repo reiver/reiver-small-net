@@ -451,6 +451,7 @@ Here are some other things I have written related to **small-net**:
 • [[nex-protocol]]
 • [[network-news-transfer-protocol]] (**NNTP**)
 • [[node-to-node-copy-protocol]] (**NNCP**)
+• [[nostr-protocol]]
 
 §§§ O
 

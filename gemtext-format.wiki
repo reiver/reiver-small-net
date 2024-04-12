@@ -1,0 +1,18 @@
+wiki/1
+
+§ gemtext-format
+
+⸺ by Charles Iliya Krempeaux
+
+The **gemtext**-format is a [[data-format]] used to create documents.
+
+The **gemtext**-format is associated with the [[gemini-protocol]].
+
+The **gemtext**-format supports:
+
+• [[block-quotation]]
+• headings (up to three levels)
+• paragraphs
+• [[preformatted-text]]
+• links (but //not// inline links)
+• lists (but //not// nested lists)

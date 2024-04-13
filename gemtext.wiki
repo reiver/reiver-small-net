@@ -1,0 +1,10 @@
+wiki/1
+
+§ gemtext
+
+⸺ by Charles Iliya Krempeaux
+
+**gemtext** can refer to:
+
+• the [[gemtext-format]], or
+• a **gemtext** file.

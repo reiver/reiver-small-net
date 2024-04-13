@@ -121,7 +121,7 @@ With —
 
 Some other //retro// file data formats  — that are attempts to "modernize" specific //vintage// file data formats — that either have come out of the **small-net** communities or have drawn the attention of people in the **small-net** communities include:
 
-• the [[gemtext]] format,
+• the [[gemtext-format]],
 • the **json feed** format,
 • the **markdown** format,
 • the **nex directory** format, and
@@ -429,6 +429,7 @@ Here are some other things I have written related to **small-net**:
 • [[garlic-routing]]
 • [[gemini-protocol]]
 • [[gemtext]]
+• [[gemtext-format]]
 • [[gnutella-protocol]]
 
 §§§ H

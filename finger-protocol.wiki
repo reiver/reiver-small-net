@@ -28,11 +28,11 @@ Like with a lot of things from the early Internet — the **finger-protocol** is
 
 The finger-protocol was created and evolved over time, by the software developers who created the finger-client software, and the finger-server software (as well as the user who chose to use or not use a particular implementation).
 Later on — at least 6 years after the finger-protocol was first created, IETF RFC-742 was published, in an attempt to describe the pre-existing finger-protocol.
-I.e., IETF RDC-742 did not create a new protocol, but instead just tried to document and describe what was created by software developers outside of the IETF.
+I.e., IETF RFC-742 did not create a new protocol, but instead just tried to document and describe what was created by software developers outside of the IETF.
 14 years later after RFC-742 was published, and at least 20 years after the finger-protocol first existed and was evolving — RFC-1288 was published in an attempt to remove some of (what some perceived as) the ambiguity of RFC-742, to make it easier for both people who would implement a finger-protocol client or server, and to provide some guidance.
 However RFC-1288 added restrictions to the finger-protocol that did NOT exist in RFC-742.
-In 1991 some of these restrictions may have seemed reasonable, however today (in 2022) some of the restrictions probably do not make as much sense (and should probably be reconsidered).
-This document is in part an attempt to reconsider one of these restrictions that RFC-1288 introduced but which didn't exist in RFC-742 — in particular, how to handle a switch other than the "/W" switch.
+In 1991 some of these restrictions may have seemed reasonable, however today (in the year 2022) some of the restrictions probably do not make as much sense (and should probably be reconsidered).
+This document is in part an attempt to reconsider one of these restrictions that RFC-1288 introduced but which didn't exist in RFC-742 — in particular, **how to handle a switch other than the "/W" switch**.
 
 Historically people and even machines were identified by user names at a host name. For example:
 
@@ -44,7 +44,7 @@ On the command-line, a simple finger request could be performed with something l
 ``finger cikrempeaux@reiver.link``
 
 A finger-protocol server could return anything it wanted.
-But the spirit of the finger-protocol is that the output should be **human-legible** first, given what technologies are available at the time (and //programmer-legible// & //machine-legible// second if at all).
+But the spirit of the finger-protocol is that the output should be [[human-legible]] first, given what technologies are available at the time (and [[programmer-legible]] & [[machine-legible]] second if at all).
 
 Also, being a simple protocol, made creating a simple client often trivial for many.
 For example:
@@ -65,7 +65,7 @@ The **finger-protocol** has a number of advantages:
 • the **finger-protocol** is simple enough for a competent software developer to be able to create a (simple) working server as a weekend project,
 • all of a (single) user's content is provided as a **single download**,
 • a client could make a request from a server for a user who is //not// (necessarily) local to that server,
-• key-value pairs are in a format that is **human-legible**, **programmer-legible**, and **machine-legible**.
+• key-value pairs are in a format that is [[human-legible]], [[programmer-legible]], and [[machine-legible]].
 
 §§ Finger-Protocol Disadvantges
 

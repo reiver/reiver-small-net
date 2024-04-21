@@ -486,6 +486,7 @@ Here are some other things I have written related to **small-net**:
 §§§ S
 
 • [[scroll-protocol]]
+• [[scrolltext]]
 • [[scrolltext-format]]
 • [[secure-scuttlebutt-protocol]] (**SSB**)
 • [[simple-mail-transfer-protocol]] (**SMTP**)

@@ -111,7 +111,9 @@ The **finger-protocol** also has a number of disadvantages:
 
 §§ History
 
-**Lester Donald Earnest** was quoted (by Sean Colbath) on the [[usenet]] group ``alt.folklore.computers`` saying in February 19th, 1990:
+Here is some history of the **finger-protocol** —
+
+On February 19th, 1990, **Lester Donald Earnest** was quoted (by Sean Colbath) on the [[usenet]] group ``alt.folklore.computers`` saying:
 
 ― Finger was named for the act of pointing.
 ― I recall that sometime after it became popular I received a message from a system administrator who thought that it should be renamed so that users would not have to use a "dirty" word.

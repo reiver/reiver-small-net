@@ -109,6 +109,7 @@ Some //retro// protocols — that are attempts to "modernize" specific //vintage
 • the [[misfin-protocol]],
 • the [[nex-protocol]],
 • the [[scroll-protocol]],
+• the [[scrolltext-format]],
 • the [[spartan-protocol]], and
 • the [[titan-protocol]].
 
@@ -126,7 +127,8 @@ Some other //retro// file data formats  — that are attempts to "modernize" spe
 • the [[gemtext-format]],
 • the **json feed** format,
 • the **markdown** format,
-• the **nex directory** format, and
+• the **nex directory** format,
+• the [[scrolltext-format]], and
 • the [[twtxt-format]].
 
 §§ Other Protocols and Formats

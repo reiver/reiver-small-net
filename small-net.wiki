@@ -11,7 +11,11 @@ and in particular:
 • the needs of the individual with respect to his or her active relationship with his or her friends and family, and
 • the needs of the individual with respect to joining and actively participating in one or more (usually //smaller//) communities.
 
+§§ Alternative Spellings
+
 "**Small-Net**" is also sometimes written (without the hyphen) as "**smallnet**", and (with "small" written as "smol") as "**smolnet**".
+
+§§ Small-Net versus Small-Web
 
 Related to **small-net** is "**small-web**", which is  also sometimes written (without the hyphen) as "**smallweb**", and (with "small" written as "smol") as "**smolweb**".
 "**Small-Web**", in some contexts, can be be considered a sub-set of **small-net**; and in other contexts can be considered more or less synonymous with **small-net**.

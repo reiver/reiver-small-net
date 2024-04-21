@@ -438,6 +438,7 @@ Here are some other things I have written related to **small-net**:
 §§§ I
 
 • [[ietf/rfc-742]]
+• [[ietf/rfc-1288]]
 
 §§§ J
 

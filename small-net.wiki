@@ -497,6 +497,7 @@ Here are some other things I have written related to **small-net**:
 §§§ W
 
 • [[wiki]]
+• [[wiki/1]]
 • [[wiki-format]]
 
 §§§ X

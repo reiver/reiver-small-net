@@ -233,6 +233,7 @@ These //goals// seem to be (in alphabetical order based on category, and //not//
 • the default file data format to be easy enough to parse for a software developer of 3 to 10 years of experience,
 • the default file data format should be human-legible — i.e., legible by humans who aren't programmers,
 • the default file data format to be writable by the average computer-literate (non-programmer) person using just a text-editor (for some definition of "text),
+• one should be able to do a [[view-source ]] on the default file data format and be able to learn it,
 
 §§§ Lifeboat
 
@@ -436,7 +437,7 @@ Here are some other things I have written related to **small-net**:
 
 §§§ I
 
-• [[ietf/rfc742]]
+• [[ietf/rfc-742]]
 
 §§§ J
 

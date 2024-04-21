@@ -55,6 +55,36 @@ For example:
 
 Nowadays (as the year 2022), the **finger-protocol** is considered a [[small-net]] protocol.
 
+§§ Example
+
+Here is a very simple example finger response, using a more vintage format:
+
+	Login: reiver                           Name: Charles Iliya Krempeaux
+	Directory: /home/reiver                Shell: /usr/bin/bash
+	Last login Thu Dec 01 02:05:59 2022 UTC
+	No Mail.
+	Plan:
+	
+	
+	          _
+	         ( )
+	          H
+	          H
+	         _H_ 
+	      .-'-.-'-.
+	     /         \
+	    |           |
+	    |   .-------'._
+	    |  / /  '.' '. \
+	    |  \ \ @   @ / / 
+	    |   '---------'        
+	    |    _((_))_((_))_((_))_|  
+	    |  .'-+-+-+|  
+	    |  '.-+-+-+|         Hello world!
+	    |    """""" |
+	    '-._((_))   _((_)).-'
+	         """
+
 §§ Finger-Protocol Advantages
 
 The **finger-protocol** has a number of advantages:

@@ -107,8 +107,10 @@ Some //retro// protocols — that are attempts to "modernize" specific //vintage
 • the [[gemini-protocol]],
 • the [[mercury-protocol]],
 • the [[misfin-protocol]],
-• the [[nex-protocol]], and
-• the [[spartan-protocol]].
+• the [[nex-protocol]],
+• the [[scroll-protocol]],
+• the [[spartan-protocol]], and
+• the [[titan-protocol]].
 
 With —
 
@@ -478,6 +480,7 @@ Here are some other things I have written related to **small-net**:
 
 §§§ S
 
+• [[scroll-protocol]]
 • [[secure-scuttlebutt-protocol]] (**SSB**)
 • [[simple-mail-transfer-protocol]] (**SMTP**)
 • [[spartan-protocol]]
@@ -486,6 +489,7 @@ Here are some other things I have written related to **small-net**:
 
 • [[telnet-protocol]]
 • [[time-protocol]]
+• [[titan-protocol]]
 • [[twtxt-format]]
 
 §§§ U

@@ -113,7 +113,6 @@ Some //retro// protocols — that are attempts to "modernize" specific //vintage
 • the [[misfin-protocol]],
 • the [[nex-protocol]],
 • the [[scroll-protocol]],
-• the [[scrolltext-format]],
 • the [[spartan-protocol]], and
 • the [[titan-protocol]].
 
@@ -487,6 +486,7 @@ Here are some other things I have written related to **small-net**:
 §§§ S
 
 • [[scroll-protocol]]
+• [[scrolltext-format]]
 • [[secure-scuttlebutt-protocol]] (**SSB**)
 • [[simple-mail-transfer-protocol]] (**SMTP**)
 • [[spartan-protocol]]

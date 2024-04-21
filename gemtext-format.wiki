@@ -4,15 +4,41 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
-The **gemtext**-format is a [[data-format]] used to create documents.
+The **gemtext**-format is a  [[markup-format]] [[data-format]] used to create [[hyper-text]] documents.
 
-The **gemtext**-format is associated with the [[gemini-protocol]].
+The **gemtext**-format is very closely associated with the [[gemini-protocol]], as it is //the most common way to serve textual content over the [gemini-protocol]]//.
+
+With the exception of //preformatted-text//, the **gemtext**-format is, a line-oriented format.
 
 The **gemtext**-format supports:
 
-• [[block-quotation]]
+• [[block-quotation]]s
 • headings (up to three levels)
 • paragraphs
 • [[preformatted-text]]
 • links (but //not// inline links)
 • lists (but //not// nested lists)
+
+§§ Links
+
+The **gemtext**-format only supports **links** that are on their own line.
+
+The **gemtext**-format does **not** support (inline) //links// within paragraphs, block-quotations, lists, preformatted-text, or anywhere else.
+
+A **gemtext** link looks like this:
+
+	=> http:/((/))example.com/
+
+Here is another example **gemtext** link that includes some text:
+
+	=> http:/((/))example.com/ An example website
+
+And here is yet another **gemtext** link:
+
+	=> gemini:/((/))example.com/ An example gemini capsule
+
+But also, this too is a link:
+
+	=>http://example.com/ An example website
+
+(Note that the space between the "=>" and the URL is missing with this last example.)

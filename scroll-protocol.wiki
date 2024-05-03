@@ -4,9 +4,9 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
-The **scroll-protocol** is a [[small-net]] a [[human-legible]] response-request style protocol that also supports streaming.
+The **scroll-protocol** is a [[human-legible]] response-request style protocol that also supports streaming.
 
-THe **scroll-protocol** was inspired by the [[gemini-protocol]] and the **gopher+** extension to the [[gopher-protocol]].
+The **scroll-protocol** was inspired by the [[gemini-protocol]] and the **gopher+** extension to the [[gopher-protocol]].
 
 The **scroll-protocol** is considered a [[small-net]] protocol.
 
@@ -27,8 +27,8 @@ The default [[tcp-port]] for the **scroll-protocol** is: **5699**.
 
 More information about the **scroll-protocol** can be found at:
 
-• gemini://scrollprotocol.us.to/
-• gemini://scrollprotocol.us.to/spec.scroll
+• gemini:/((/))scrollprotocol.us.to/
+• gemini:/((/))scrollprotocol.us.to/spec.scroll
 
 §§ See Also
 
